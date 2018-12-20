@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SportClub()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sportvereniging\r\n
+comment1.params=member
+comment1.target=void\ join(Member)
+comment1.text=\r\n\ Add\ a\ new\ member\ to\ the\ club\r\n
+comment2.params=
+comment2.target=int\ numberOfMembers()
+comment2.text=\r\n\ return\ The\ number\ of\ members\ (Membership\ objects)\ in\ the\ sports\ club.\r\n
+comment3.params=
+comment3.target=double\ contributionTotal()
+comment3.text=\r\n\ contributions\ total\r\n
+comment4.params=
+comment4.target=double\ avarageMembershipYears()
+comment4.text=\r\n\ The\ avarage\ number\ of\ membershipyears\r\n
+comment5.params=
+comment5.target=java.lang.String\ getYoungestMember()
+comment5.text=\r\n\ returns\ the\ name\ of\ the\ youngest\ member\r\n
+numComments=6
